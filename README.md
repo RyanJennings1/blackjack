@@ -25,21 +25,21 @@ At any time, the player can decide to change the Ace value from 11 to 1.
 The program will not specifically ask the player but it will automatically change the value if it goes above 21.
 
 ##### Scoring/Deciding Winner
-  The winning conditions are:
-    * Player hits 21 when cards are dealt.
-    * Player cards are above 16 and higher than the dealer.
-    * The dealer’s card is above 21 while the player maintains 16-21.
-    * The player has 5 cards on his hand and the total value is still 21 or below, (hitting 16 is not required in this case).
+  The winning conditions are:  
+    * Player hits 21 when cards are dealt.  
+    * Player cards are above 16 and higher than the dealer.  
+    * The dealer’s card is above 21 while the player maintains 16-21.  
+    * The player has 5 cards on his hand and the total value is still 21 or below, (hitting 16 is not required in this case).  
 
-  The draw conditions are:
-    * Both the player and the dealer the same card sum of between 16-21.
-    * The player and deal receives 21 when the card is dealt.
+  The draw conditions are:  
+    * Both the player and the dealer the same card sum of between 16-21.  
+    * The player and deal receives 21 when the card is dealt.  
 
-  The lose conditions are:
-    * The total sum of the player’s card is above 21.
-    * The player has 5 cards on his hands and the total value is above 21.
-    * The player cards are above 16 but lower than the dealer whose cards are 21 or below.
-    * The dealer is dealt 21 while the player is not.
+  The lose conditions are:  
+    * The total sum of the player’s card is above 21.  
+    * The player has 5 cards on his hands and the total value is above 21.  
+    * The player cards are above 16 but lower than the dealer whose cards are 21 or below.  
+    * The dealer is dealt 21 while the player is not.  
 
 ### How to Play Blackjack
 In order to win blackjack, you have to beat the dealer. If the final combined value of the cards is greater than that of dealer, you win.  
